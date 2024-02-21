@@ -1,14 +1,18 @@
+// index.js
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals'; // Make sure to import reportWebVitals properly
+// Remove the import statement for reportWebVitals
+// import reportWebVitals from './reportWebVitals';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+ReactDOM.render(
   <React.StrictMode>
     <App />
-  </React.StrictMode>
+  </React.StrictMode>,
+  document.getElementById('root')
 );
 
-reportWebVitals(); // Call reportWebVitals function
+// Remove the call to reportWebVitals
+// reportWebVitals();
