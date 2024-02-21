@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ziyadRW/count/static/css/main.c0062488.css",
+    "main.js": "/ziyadRW/count/static/js/main.85a57fe7.js",
+    "index.html": "/ziyadRW/count/index.html",
+    "main.c0062488.css.map": "/ziyadRW/count/static/css/main.c0062488.css.map",
+    "main.85a57fe7.js.map": "/ziyadRW/count/static/js/main.85a57fe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0062488.css",
+    "static/js/main.85a57fe7.js"
+  ]
+}
